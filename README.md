@@ -18,3 +18,6 @@ Labeled data - to predict:
 
 ? LINEAR REGRESSION is separating links interesint / not interesting
 probability or something like this for myself: max possible?
+
+#
+Links are a good set /structral errors - excluded/
