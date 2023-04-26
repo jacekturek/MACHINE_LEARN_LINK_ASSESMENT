@@ -15,3 +15,6 @@ https://www.geeksforgeeks.org/machine-learning-with-python/
 Labeled data - to predict:
 [http[s]://aaaa.bbbb.ccc.ddd [INTERESTING | NOT INTERESTING]
 #
+
+? LINEAR REGRESSION is separating links interesint / not interesting
+probability or something like this for myself: max possible?
