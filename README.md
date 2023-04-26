@@ -23,3 +23,5 @@ probability or something like this for myself: max possible?
 Links are a good set /structral errors - excluded/
 #
 Knowledge is provided by me in the way the LINK is classified into "INTERESTING" category (marketing).
+#
+Some regression is possible.
