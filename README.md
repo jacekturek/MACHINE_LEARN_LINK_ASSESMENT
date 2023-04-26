@@ -7,3 +7,7 @@ Criteria is mine but good.
 #
 Model od dev: SPIRAL by prototypes
 1.st python machine leraning if it works
+#
+#
+Python machine learning:
+https://www.geeksforgeeks.org/machine-learning-with-python/
