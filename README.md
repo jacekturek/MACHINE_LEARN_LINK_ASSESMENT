@@ -11,3 +11,7 @@ Model od dev: SPIRAL by prototypes
 #
 Python machine learning:
 https://www.geeksforgeeks.org/machine-learning-with-python/
+#
+Labeled data - to predict:
+[http[s]://aaaa.bbbb.ccc.ddd [INTERESTING | NOT INTERESTING]
+#
