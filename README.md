@@ -30,6 +30,7 @@ Knowledge is provided by me in the way the LINK is classified into "INTERESTING"
 #
 Some regression is possible.
 #
-Natural language processing (NLP) is a subfield of Artificial Intelligence (AI).
+Natural language processing (NLP) is a subfield of Artificial Intelligence (AI). /undesrtanding humans speech/.
+e.g. Gmail uses natural language processing (NLP) to discern which emails are legitimate and which are spam.
 #
 HIPOTHESIS: probably the regression cuts some SIGMA-body of bad links below the down-directed line? I don't know how it'll work in technical details maybe I will write later about this process. (speaking statistically). Some factor will produce the result.
