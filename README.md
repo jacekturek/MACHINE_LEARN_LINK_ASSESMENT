@@ -30,4 +30,4 @@ Some regression is possible.
 #
 Natural language processing (NLP) is a subfield of Artificial Intelligence (AI).
 #
-HIPOTHESIS: probably the regression cuts acome sigma-body of bad links below the down-directed line? I don't know how it'll work in technical details maybe I will write later about this process. (speaking statistically).
+HIPOTHESIS: probably the regression cuts some SIGMA-body of bad links below the down-directed line? I don't know how it'll work in technical details maybe I will write later about this process. (speaking statistically). Some factor will produce the result.
