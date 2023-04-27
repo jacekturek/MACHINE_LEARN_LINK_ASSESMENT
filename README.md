@@ -27,3 +27,7 @@ Links are a good set /structral errors - excluded/
 Knowledge is provided by me in the way the LINK is classified into "INTERESTING" category (marketing).
 #
 Some regression is possible.
+#
+Natural language processing (NLP) is a subfield of Artificial Intelligence (AI).
+#
+HIPOTHESIS: probably the regression cuts acome sigma-body of bad links below the down-directed line? I don't know how it'll work in technical details maybe I will write later about this process. (speaking statistically).
