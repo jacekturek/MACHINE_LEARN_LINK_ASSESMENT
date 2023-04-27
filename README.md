@@ -39,3 +39,4 @@ HIPOTHESIS: probably the regression cuts some SIGMA-body of bad links below the 
 #
 In mu opition X = links in searching machine create the dist. of M(m,s), hence I want 1000 lins to have a meaning.
 #ABC
+# Gam.theor: maybe some links can't be classified. Better categories muust be introduced: GOOD/NOT GOOD maybe
