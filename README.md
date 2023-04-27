@@ -3,7 +3,7 @@ Link assesment for myself / Version 1.0 beta.
 Version 2.0 also beta should have a web-harvester included.
 #
 The program will asses a link whether is OK (crit mine) or NOT
-the crit later.-
+the crit later.- --
 #
 Criteria is mine but good.
 INTERESTING: http[s]//::iamgreat.com.pl
