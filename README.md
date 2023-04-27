@@ -8,6 +8,7 @@ the crit later.
 Criteria is mine but good.
 INTERESTING: http[s]//::iamgreat.com.pl
 NOT-INTERESTING http[s]//::ilikeit.com
+#
 game theor: links may not be classifed into these criteria hence INTREST = GOOD / NOT-INTD = NOT-GOOD; fot this programm. Maybe it's better.
 #
 => AI for marketing... automating business criteria, searching, evaluation
