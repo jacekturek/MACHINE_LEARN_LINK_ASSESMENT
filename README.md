@@ -38,4 +38,4 @@ e.g. Gmail uses natural language processing (NLP) to discern which emails are le
 HIPOTHESIS: probably the regression cuts some SIGMA-body of bad links below the down-directed line? I don't know how it'll work in technical details maybe I will write later about this process. (speaking statistically). Some factor will produce the result.
 #
 In mu opition X = links in searching machine create the dist. of M(m,s), hence I want 1000 lins to have a meaning.
-#
+#ABC
