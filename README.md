@@ -7,7 +7,7 @@ the crit later.
 #
 Criteria is mine but good.
 #
-=> AI for marketing...
+=> AI for marketing... automating business criteria, searching, evaluation
 #
 Model od dev: SPIRAL by prototypes
 1.st python machine leraning if it works
