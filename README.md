@@ -6,6 +6,8 @@ The program will asses a link whether is OK (crit mine) or NOT
 the crit later.
 #
 Criteria is mine but good.
+INTERESTING: http[s]//::iamgreat.com.pl
+NOT-INTERESTING http[s]//::ilikeit.com
 #
 => AI for marketing... automating business criteria, searching, evaluation
 #
