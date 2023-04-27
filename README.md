@@ -31,6 +31,7 @@ probability or something like this for myself: max possible?
 Links are a good set /structral errors - excluded/
 #
 Knowledge is provided by me in the way the LINK is classified into "INTERESTING" category (marketing).
+Furhter it will be cheked according to the GfG: python machine learning tutorial. (prototype).
 #
 Some regression is possible.
 #
