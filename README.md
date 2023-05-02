@@ -9,7 +9,7 @@ Criteria is mine but good.
 INTERESTING: http[s]//::iamgreat.com.pl
 NOT-INTERESTING http[s]//::ilikeit.com
 #
-game theor: links may not be classifed into these criteria hence INTREST = GOOD / NOT-INTD = NOT-GOOD; fot this programm. Maybe it's better.
+game theor: links may not be all classifed into these criteria hence INTREST = GOOD / NOT-INTD = NOT-GOOD; fot this programm. Maybe it's better.
 #
 => AI for marketing... automating business criteria, searching, evaluation
 #
@@ -21,7 +21,7 @@ Python machine learning:
 https://www.geeksforgeeks.org/machine-learning-with-python/
 #
 Labeled data - to predict:
-[http[s]://aaaa.bbbb.ccc.ddd [INTERESTING | NOT INTERESTING]
+[http[s]://aaaa.bbbb.ccc.ddd [good	 | not-good]
 #
 
 ? LINEAR REGRESSION is separating links interesint / not interesting
