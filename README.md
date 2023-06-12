@@ -9,7 +9,13 @@ Criteria is mine but good.
 INTERESTING: http[s]//::iamgreat.com.pl
 NOT-INTERESTING http[s]//::ilikeit.com
 #
-game theor: links may not be all classifed into these criteria hence INTREST = GOOD / NOT-INTD = NOT-GOOD; fot this programm. Maybe it's better.
+
+Statistical criteria: 
+
+LINK:
+a) BAD
+b) GOOD
+
 #
 => AI for marketing... automating business criteria, searching, evaluation
 #
@@ -21,7 +27,7 @@ Python machine learning:
 https://www.geeksforgeeks.org/machine-learning-with-python/
 #
 Labeled data - to predict:
-[http[s]://aaaa.bbbb.ccc.ddd [good	 | not-good]
+[http[s]://aaaa.bbbb.ccc.ddd [bad|good]
 #
 
 ? LINEAR REGRESSION is separating links interesint / not interesting
@@ -38,7 +44,6 @@ Some regression is possible.
 Natural language processing (NLP) is a subfield of Artificial Intelligence (AI). /undesrtanding humans speech/.
 e.g. Gmail uses natural language processing (NLP) to discern which emails are legitimate and which are spam.
 #
-Regression could be established between good/not good - expect 2 groups of links.
+Regression could be established between 2 groups of links (like in tutorial).
 #
-In mu opition X = good links in searching machine create the M(m,s), hence I want 300 links to find the one interested (roughly).
-#ABC
+#ABC-
