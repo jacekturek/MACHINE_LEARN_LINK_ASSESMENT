@@ -16,9 +16,11 @@ LINK:
 a) BAD
 b) GOOD
 
-#
-=> AI for marketing... automating business criteria, searching, evaluation
-#
+Definition: 
+LINKS = GOOD = LINKS THAT I WANT
+LINKS = BAD = LINKS THAT I REJECT
+
+
 Model od dev: SPIRAL by prototypes
 1.st python machine leraning if it works
 #
@@ -30,20 +32,9 @@ Labeled data - to predict:
 [http[s]://aaaa.bbbb.ccc.ddd [bad|good]
 #
 
-? LINEAR REGRESSION is separating links interesint / not interesting
-probability or something like this for myself: max possible?
+Pyton machine learning and this problem will be analyzed in the next sections 
+in the files and adjucted to this problem... Examples will be written in python and checked
+how it works. Finally some regression shoul appear in the end separaring links in 2 grups.
+This way the marketing critaria will be in the AI machine.
 
-#
-Links are a good set /structral errors - excluded/
-#
-Knowledge is provided by me in the way the LINK is classified into "INTERESTING" category (marketing).
-Furhter it will be cheked according to the GfG: python machine learning tutorial. (prototype).
-#
-Some regression is possible.
-#
-Natural language processing (NLP) is a subfield of Artificial Intelligence (AI). /undesrtanding humans speech/.
-e.g. Gmail uses natural language processing (NLP) to discern which emails are legitimate and which are spam.
-#
-Regression could be established between 2 groups of links (like in tutorial).
-#
 #ABC-
