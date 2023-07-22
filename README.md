@@ -10,31 +10,21 @@ INTERESTING: http[s]//::iamgreat.com.pl
 NOT-INTERESTING http[s]//::ilikeit.com
 #
 
-Statistical criteria: 
+Criteria, for now:
 
 LINK:
-a) BAD
-b) GOOD
+a) good
+b) other
 
 Definition: 
 LINKS = GOOD = LINKS THAT I WANT
 LINKS = BAD = LINKS THAT I REJECT
 
+Choose a programming language: Python is a popular choice for ML.
+Python machine learning is available and will be used here.
 
-Model od dev: SPIRAL by prototypes
-1.st python machine leraning if it works
-#
-#
-Python machine learning:
-https://www.geeksforgeeks.org/machine-learning-with-python/
-#
-Labeled data - to predict:
-[http[s]://aaaa.bbbb.ccc.ddd [bad|good]
-#
-
-Pyton machine learning and this problem will be analyzed in the next sections 
-in the files and adjucted to this problem... Examples will be written in python and checked
-how it works. Finally some regression shoul appear in the end separaring links in 2 grups.
-This way the marketing critaria will be in the AI machine.
+Finally some regression shoul appear in the end separaring links in 2 grups.
+Marketing and AI: speech python recognition, in term of understanding a link.
+This can be considered some AI marketing (next steps in this are allways possible).
 
 #ABC-
