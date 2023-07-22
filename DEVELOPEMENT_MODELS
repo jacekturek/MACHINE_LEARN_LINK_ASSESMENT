@@ -1,6 +1,4 @@
 Models of develpoment:
-1) for the code and software system - spiral model = prototyping is important to check the work if it's in the right direction
-2) for the analysis of python machine learning - waterfal model = check the relevant knowledge
-2a) if the project is appliable to this and how it will develop
-2b) WATERFALL: About the general process - About input - About processing and meaning
-2c) 2 is generalization of the concept presented in the initial README.md 
+I want a spiral model of develpoment
+I want minimze the risk of misunderstanding
+Spiral model is explained here: https://www.geeksforgeeks.org/software-engineering-spiral-model/
