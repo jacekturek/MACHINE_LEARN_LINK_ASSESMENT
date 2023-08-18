@@ -1,4 +1,4 @@
-Input data question is discussed here
+Overall project idea is discussed here
 this is based on python-machine-learning information.
 Related selection here:
 # input data:
