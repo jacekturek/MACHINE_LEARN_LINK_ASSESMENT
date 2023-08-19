@@ -18,7 +18,7 @@ b) other
 
 Definition: 
 LINKS = GOOD = LINKS THAT I WANT
-LINKS = BAD = LINKS THAT I REJECT
+LINKS = BAD = LINKS THAT I DON'T WANT
 
 Choose a programming language: Python is a popular choice for ML.
 Python machine learning is available and will be used here.
