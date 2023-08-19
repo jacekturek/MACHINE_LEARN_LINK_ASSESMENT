@@ -1,8 +1,8 @@
 # MACHINE_LEARN_LINK_ASSESMENT
 Link assesment for myself / Version 1.0 beta.
-Version 2.0 also beta should have a web-harvester included.
+Version 2.0 also beta should have a web-harvester included for getting input links.
 #
-The program will asses a link whether is OK (crit mine) or NOT
+The program will asses a link whether is OK (crit from marketing) or NOT
 the crit later.- --
 #
 Criteria is mine but good.
@@ -12,9 +12,9 @@ NOT-INTERESTING http[s]//::ilikeit.com
 
 Criteria, for now:
 
-LINK:
+LINK (marketing 5.0):
 a) good
-b) other
+b) other 
 
 Definition: 
 LINKS = GOOD = LINKS THAT I WANT
