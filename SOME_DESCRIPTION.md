@@ -1,6 +1,6 @@
 Overall project idea is discussed here
-this is based on python-machine-learning information.
-Related selection here:
+this idea is based on python-machine-learning information.
+some information from the tutorials - to plan the programm:
 # input data:
 links, format can be simplified - imput set of data (from geeks for geeks)
 The links can be divided in some way aliong some barrier.
