@@ -15,3 +15,4 @@ Internet markering: Assesment of a link is a phase wheere the consumer knows if 
 The programm AI will help to create a model for checking links if they are ok.
 # structure of data for nat. language recognition:
 # etc.
+#ABC-
