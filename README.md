@@ -6,7 +6,7 @@ The program will asses a link whether is OK (crit from marketing) or NOT
 the crit later.- --
 
 IMPORTANT THINGS TO DO:
-- the tutorial is imporrtant to plan activites
+- the tutorial is imporrtant to plan activites (tutorial in other pages GfG link in other place)
 - the data shall be able to be divided
 - based on the language processing
 - the information within a link is the bascics for marketing
