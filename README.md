@@ -4,24 +4,13 @@ Version 2.0 also beta should have a web-harvester included for getting input lin
 #
 The program will asses a link whether is OK (crit from marketing) or NOT
 the crit later.- --
-#
-Criteria is mine but good.
-INTERESTING: http[s]//::iamgreat.com.pl
-NOT-INTERESTING http[s]//::ilikeit.com
-#
 
-Criteria, for now:
-
-LINK (marketing 5.0):
-a) good
-b) other 
-
-Definition: 
-LINKS = GOOD = LINKS THAT I WANT
-LINKS = BAD = LINKS THAT I DON'T WANT
-
-Choose a programming language: Python is a popular choice for ML.
-Python machine learning is available and will be used here.
+IMPORTANT THINGS TO DO:
+- the tutorial is imporrtant to plan activites
+- the data shall be able to be divided
+- based on the language processing
+- the information within a link is the bascics for marketing
+- this is one of the first stages to asses the page
 
 Finally some regression shoul appear in the end separaring links in 2 grups.
 Marketing and AI: speech python recognition, in term of understanding a link.
