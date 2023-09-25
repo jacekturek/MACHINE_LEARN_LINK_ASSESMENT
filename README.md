@@ -2,8 +2,9 @@
 Link assesment for myself / Version 1.0 beta.
 Version 2.0 also beta should have a web-harvester included for getting input links.
 #
-The program will asses a link whether is OK (crit from marketing) or NOT
-the crit later.- --
+The marketing criteria for links is based on the PRODUCT / 4P
+- for the AI it can be rewritten: LINK OK | OTHER
+- this is for teaching the system
 
 IMPORTANT THINGS TO DO:
 - the tutorial is imporrtant to plan activites (tutorial in other pages GfG link in other place)
