@@ -7,7 +7,7 @@ The marketing criteria for links is based on the PRODUCT / 4P
 - this is for teaching the system
 
 IMPORTANT THINGS TO DO:
-- the tutorial is imporrtant to plan activites (tutorial in other pages GfG link in other place)
+- the tutorial is imporrtant to plan activites (tutorial in other pages / will be mentioned)
 - the data shall be able to be divided
 - based on the language processing
 - the information within a link is the bascics for marketing
