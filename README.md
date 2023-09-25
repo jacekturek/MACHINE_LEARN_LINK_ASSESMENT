@@ -18,4 +18,3 @@ Marketing and AI: speech python recognition, in term of understanding a link.
 This can be considered some AI marketing (next steps in this are allways possible).
 
 #ABC-
-a
