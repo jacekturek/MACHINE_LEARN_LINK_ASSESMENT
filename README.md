@@ -12,6 +12,7 @@ IMPORTANT THINGS TO DO:
 - based on the language processing
 - the information within a link is the bascics for marketing
 - this is one of the first stages to asses the page
+- the impression after viewing the page is based on different criterium / doesn't correspond the link classification
 
 Finally some regression shoul appear in the end separaring links in 2 grups.
 Marketing and AI: speech python recognition, in term of understanding a link.
