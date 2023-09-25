@@ -5,7 +5,7 @@ The spiral model is good:
 #
 - in the plannig phase:
 - outline the system
-- understand learnig / data model
+- understand learnig / data model (AI model)
 
 Spiral model is explained here:
 - https://www.geeksforgeeks.org/software-engineering-spiral-model/
