@@ -1,4 +1,4 @@
-The spiral model is good
+The spiral model is good:
 - because the code will be after the idea is analyzed
 - the prototype is good for these small projects
 Spiral model is explained here:
