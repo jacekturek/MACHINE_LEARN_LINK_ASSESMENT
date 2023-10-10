@@ -5,7 +5,7 @@ Version 2.0 also beta should have a web-harvester included for getting input lin
 The marketing criteria for links is based on the PRODUCT / 4P and Marketing 5.0
 - the AI can measure behaviour (human)
 - for the AI it can be rewritten: LINK OK | OTHER
-- this is for teaching the system
+- the values etc. cannot be reflected by AI
 
 IMPORTANT THINGS TO DO:
 - the tutorial is imporrtant to plan activites (tutorial in other pages / will be mentioned)
