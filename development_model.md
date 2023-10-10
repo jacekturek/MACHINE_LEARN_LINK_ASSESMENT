@@ -9,4 +9,4 @@ The planning phase:
 - check the selected links against marketing criteria
 
 The risk planning phase:
-- check the relevance of the link and the quality of the found web-page
+- check the relevance of the link and the quality of the found web-pages
