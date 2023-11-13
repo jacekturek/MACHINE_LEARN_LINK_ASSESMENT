@@ -5,5 +5,6 @@ Version 2.0 also beta should have a web-harvester included for getting input lin
 The marketing criteria for links is based on the PRODUCT / 4P and Marketing 5.0
 The system can do the semantical processing of links.
 The machine learning in pythoin could to this according to the Geeks For Geeks tutorials. 
+Good links meet the digital marketing criteria. (based on the AI and human behaviour (rather than e.g. values)).
 
 ABC-
