@@ -8,5 +8,7 @@ The content of this project is about selecting links from seach engine.
 Set of lins will be matched agains marketing criteria (criteria which are based on some important knowledge).
 Links vector X will be separated into Y - good links and X - other links.
 <br/>
+According to Geeks for Geeks tutorials.
+
 
 ABC-
