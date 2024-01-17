@@ -18,6 +18,8 @@ The marketong for link selection:
 
 ![image](https://github.com/jacekturek/MACHINE_LEARN_LINK_ASSESMENT/assets/62720909/4d138074-ba2f-4239-aa7d-a772ff27b46b)
 
-= awarenerss = which are good (links).
+*= awarenerss = which are good (links).*
+
+> source Marketing 5.0 - Kotler, Kartajaya, Setiawan
 
 ABC-
