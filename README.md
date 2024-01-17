@@ -14,5 +14,10 @@ Imporant feature of this selections is the extraction of GOOD links (other are u
 According to Geeks for Geeks tutorials, about machine learning.
 X - set of links + Y set of links is differentiated based on the semantics.
 
+The marketong for link selection:
+
+![image](https://github.com/jacekturek/MACHINE_LEARN_LINK_ASSESMENT/assets/62720909/4d138074-ba2f-4239-aa7d-a772ff27b46b)
+
+= awarenerss = which are good (links).
 
 ABC-
