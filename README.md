@@ -1,8 +1,8 @@
 # MACHINE_LEARN_LINK_ASSESMENT
 Link assesment for myself / Version 1.0 beta.
-Version 2.0 also beta should have a web-harvester included for getting input links.
+Version 2.0 also beta could have a web-harvester included for getting input links.
 #
-The meaning of the project is to statistically check the links that come from search engine.
+The meaning of the project is to statistically check the links that come from search engine. /marketing/
 <br/>
 The content of this project is about selecting links from seach engine.
 Set of lins will be matched agains marketing criteria (criteria which are based on some important knowledge).
