@@ -2,19 +2,20 @@
 Link assesment for myself / Version 1.0 beta.
 Version 2.0 also beta could have a web-harvester included for getting input links.
 #
-The meaning of the project is to statistically check the links that come from search engine. /marketing/
-<br/>
-The content of this project is about selecting links from seach engine.
-Set of lins will be matched agains marketing criteria (criteria which are based on some important knowledge).
-Links vector X will be separated into Y - good links and X - other links.
-<br/>
 
-> the sets of data can reveal consumer's styles
+Links can be interesting or not as they contain some intentinal data.
+The links obtained form any seach engine can be selected by humans, but also the AI.
 
-Imporant feature of this selections is the extraction of GOOD links (other are uniportant, what kind of links are them).
+> AI can only see behaviours without undelying values (e.g.) / (*Marketing sciences*)
 
-According to Geeks for Geeks tutorials, about machine learning.
-X - set of links + Y set of links is differentiated based on the semantics.
+The geeks for geeks tutorial shows machine learning in Python.
+This can be used as an example of Atificial Intelligence.
+
+> The AI science shows that there is semantical processing - this can be cool solution for this problem;
+
+In this context the links can be divided into:
+
+> GOOD | OTHER (not interesting) / the AI way
 
 The marketong for link selection:
 
@@ -22,7 +23,5 @@ The marketong for link selection:
 
 *= awarenerss = which are good (links).*
 > source Marketing 5.0 - Kotler, Kartajaya, Setiawan
-
-> People and technology can cooperate - create new experience, to provide
 
 ABC-
