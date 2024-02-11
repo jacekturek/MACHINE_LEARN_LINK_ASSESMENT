@@ -1,4 +1,4 @@
-#The waterfall model:
+# The waterfall model:
 
 * sequential model
 * systematic approach
