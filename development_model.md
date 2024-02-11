@@ -1,7 +1,9 @@
 #The waterfall model:
 
 * sequential model
+* systematic approach
 
+> the waterfall model is one of possible software development models
 
 REQUIREMENTS GATHERING
 ##
