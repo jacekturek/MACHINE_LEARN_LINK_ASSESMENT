@@ -1,5 +1,9 @@
 #The waterfall model:
 
-PHASE DESIGN
+* sequential model
+
+REQUIREMENTS GATHERING
 ##
-Design:
+- bunch of links can be divided like in README by a marketing goal
+- links are already gathered in text
+- the system will find 'good' links
