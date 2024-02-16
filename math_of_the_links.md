@@ -33,3 +33,11 @@ exapmles of such a group are integer numbers with multiplication, real numbers w
 With a fuction f(link) -> {good, bad} it is easy to show what kind of transformation is good.
 
 > This is an "onto" relation, which is irreversible since good can mean many links.
+
+# The sets
+
+> links are not naturally ordered in this case they are a set (not a series)
+
+> ☛ A set of vertices I is called independent set if no two vertices in set I are adjacent to each other
+
+In theory good and bad links are not adjacent (*see any graph*).
