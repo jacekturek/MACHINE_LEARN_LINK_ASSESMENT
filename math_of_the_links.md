@@ -19,3 +19,5 @@ In theory two links which are good should form a good link - as well as the othe
 > Identity element (in the Group)
 
 It's an empty string: ""
+
+> Only the property of closure holds, thus the group is a Mathematical Structure: Group (only).
