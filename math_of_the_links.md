@@ -16,6 +16,6 @@ All links can be defined as two sets, A+B = all links (good and the rest).
 
 In theory two links which are good should form a good link - as well as the other set.
 
-> Identity element
+> Identity element (in the Group)
 
 It's an empty string: ""
