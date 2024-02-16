@@ -60,6 +60,12 @@ There are good and bad links. They can be selected. There is a probabilty of a
 
 > P(good link) = p.
 
+> Sample group - all possible outcomes of a random event
+
+sample group is some set of choosen links
+
+And choosing a link is a ☛ mutually exclusive random event.
+
 What is the probability:
 
 P(good | bad) = find good links under the contion that a bad link was found (etc.)
