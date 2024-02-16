@@ -67,3 +67,7 @@ a known forumla reveals this:
 what is the ☛ distribution of the following variable:
 
 X = {omega (link) : omega -> {0,1} }
+
+in other words what is the probability of a good/bad link?
+
+X is a discrete variable.
