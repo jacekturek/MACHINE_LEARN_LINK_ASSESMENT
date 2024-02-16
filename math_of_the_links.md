@@ -54,6 +54,12 @@ The links cannot be separated in 2 sets => I cannot do that (*contradiction*).
 
 # Probability
 
+> Empirical approach
+
+There are good and bad links. They can be selected. There is a probabilty of a 
+
+> P(good link) = p.
+
 What is the probability:
 
 P(good | bad) = find good links under the contion that a bad link was found (etc.)
