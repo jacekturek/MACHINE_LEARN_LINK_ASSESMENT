@@ -61,3 +61,9 @@ P(good | bad) = find good links under the contion that a bad link was found (etc
 a known forumla reveals this:
 
 > ☛ P(A and B) / P(B), as the sets are disjoint => P(.) = 0
+
+> ☛ What is interesting with this project is
+
+what is the ☛ distribution of the following variable:
+
+X = {omega (link) : omega -> {0,1} }
