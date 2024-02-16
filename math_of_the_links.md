@@ -71,3 +71,9 @@ X = {omega (link) : omega -> {0,1} }
 in other words what is the probability of a good/bad link?
 
 X is a discrete variable.
+
+One comment about the distribution P(X=0) = p_a, P(X=1) = p_b:
+
+> it can be undefined
+
+Assume it's defined => SEO is working => contradiction.
