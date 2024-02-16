@@ -12,6 +12,8 @@ The links cannot be GOOD and NOT GOOD as well - the sets must be 'unique'
 
 All links can be defined as two sets, A+B = all links (good and the rest).
 
+# The groups
+
 > Groups: (ALinks, concatenation), links concatenation belongs to ALinks
 
 In theory two links which are good should form a good link - as well as the other set.
@@ -27,6 +29,8 @@ it is that closure hods, it's associative, and has and identity element
 > such a group is Monoid
 
 exapmles of such a group are integer numbers with multiplication, real numbers with addition
+
+# The functions
 
 With a fuction f(link) -> {good, bad} it is easy to show what kind of transformation is good.
 
