@@ -24,4 +24,6 @@ It's an empty string: ""
 
 it is that closure hods, it's associative, and has and identity element
 
-> such a gropu is Monoid
+> such a group is Monoid
+
+exapmles of such a group are integer numbers with multiplication, real numbers with addition
