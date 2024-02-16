@@ -77,3 +77,4 @@ One comment about the distribution P(X=0) = p_a, P(X=1) = p_b:
 > it can be undefined
 
 Assume it's defined => SEO is working => contradiction.
+Because of the SEO variance can be [infinity].
