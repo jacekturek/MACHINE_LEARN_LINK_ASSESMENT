@@ -20,6 +20,10 @@ In theory two links which are good should form a good link - as well as the othe
 
 It's an empty string: ""
 
-> Only the property of closure holds, thus the group is a Mathematical Structure: Group (only).
+> Only the property of closure holds, thus the group is a Mathematical Structure: Group.
+
+it is that closure hods, it's associative, and has and identity element
+
+> such a gropu is Monoid
 
 e.g. link1 + link2 != link2 + link1
