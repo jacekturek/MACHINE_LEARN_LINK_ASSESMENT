@@ -27,3 +27,7 @@ it is that closure hods, it's associative, and has and identity element
 > such a group is Monoid
 
 exapmles of such a group are integer numbers with multiplication, real numbers with addition
+
+With a fuction f(link) -> {good, bad} it is easy to show what kind of transformation is good.
+
+This is an "onto" relation, which is irreversible since good can label many links.
