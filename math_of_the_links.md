@@ -30,4 +30,4 @@ exapmles of such a group are integer numbers with multiplication, real numbers w
 
 With a fuction f(link) -> {good, bad} it is easy to show what kind of transformation is good.
 
-This is an "onto" relation, which is irreversible since good can mean many links.
+> This is an "onto" relation, which is irreversible since good can mean many links.
