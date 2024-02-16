@@ -41,3 +41,5 @@ With a fuction f(link) -> {good, bad} it is easy to show what kind of transforma
 > ☛ A set of vertices I is called independent set if no two vertices in set I are adjacent to each other (tutorial)
 
 In theory good and bad links are not adjacent (*see any graph*).
+
+> ☛ it's a '*stable set*'
