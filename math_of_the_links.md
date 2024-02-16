@@ -51,3 +51,13 @@ In theory good and bad links are not adjacent (*see any graph*).
 > contradiction and continue
 
 The links cannot be separated in 2 sets => I cannot do that (*contradiction*).
+
+# Probability
+
+What is the probability:
+
+P(good | bad) = find good links under the contion that a bad link was found (etc.)
+
+a known forumla reveals this:
+
+> ☛ P(A and B) / P(B), as the sets are disjoint => P(.) = 0
