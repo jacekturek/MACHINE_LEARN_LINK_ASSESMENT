@@ -25,5 +25,3 @@ It's an empty string: ""
 it is that closure hods, it's associative, and has and identity element
 
 > such a gropu is Monoid
-
-e.g. link1 + link2 != link2 + link1
