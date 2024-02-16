@@ -22,9 +22,7 @@ In theory two links which are good should form a good link - as well as the othe
 
 It's an empty string: ""
 
-> Only the property of closure holds, thus the group is a Mathematical Structure: Group.
-
-it is that closure hods, it's associative, and has and identity element
+> it is that closure hods, it's associative, and has and identity element
 
 > such a group is Monoid
 
