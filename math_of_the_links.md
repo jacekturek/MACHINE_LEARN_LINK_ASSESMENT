@@ -18,8 +18,6 @@ All links can be defined as two sets, A+B = all links (good and the rest).
 
 In theory two links which are good should form a good link - as well as the other set.
 
-Number of functions can be 2^ALEPH0 since there are 2 elements to be chosen from for any links.
-
 > Identity element (in the Group)
 
 It's an empty string: ""
@@ -35,6 +33,8 @@ exapmles of such a group are integer numbers with multiplication, real numbers w
 With a fuction f(link) -> {good, bad} it is easy to show what kind of transformation is good.
 
 > This is an "onto" relation, which is irreversible since good can mean many links.
+
+Number of functions can be 2^ALEPH0 since there are 2 elements to be chosen from for any links.
 
 # The sets
 
