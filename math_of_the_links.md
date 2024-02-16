@@ -45,3 +45,9 @@ Number of functions can be 2^ALEPH0 since there are 2 elements to be chosen from
 In theory good and bad links are not adjacent (*see any graph*).
 
 > ☛ it's a '*stable set*'
+
+# The proof
+
+> contradiction and continue
+
+The links cannot be separated in 2 sets => I cannot do that (*contradiction*).
