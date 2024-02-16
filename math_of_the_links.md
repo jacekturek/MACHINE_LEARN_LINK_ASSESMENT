@@ -64,7 +64,7 @@ There are good and bad links. They can be selected. There is a probabilty of a
 
 sample group is some set of choosen links
 
-And choosing a link is a ☛ mutually exclusive random event.
+> And choosing a link is a ☛ mutually exclusive random event.
 
 What is the probability:
 
