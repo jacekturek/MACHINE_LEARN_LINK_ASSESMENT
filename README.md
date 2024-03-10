@@ -15,7 +15,10 @@ This can be used as an example of Atificial Intelligence.
 
 In this context the links can be divided into:
 
-> GOOD | OTHER (not interesting) / the AI way
+> GOOD | OTHER (not interesting) / the AI
+
+If links can be labeled they could be separated by the AI - machine learning in python.
+Next the language processing will be included (semantics), to resolve this problem in software.
 
 The marketong for link selection:
 
