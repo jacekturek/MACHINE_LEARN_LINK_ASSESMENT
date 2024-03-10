@@ -11,7 +11,7 @@ The links obtained form any seach engine can be selected by humans, but also the
 The geeks for geeks tutorial shows machine learning in Python.
 This can be used as an example of Atificial Intelligence.
 
-> The AI science shows that there is semantical processing - this can be cool solution for this problem;
+> The AI science shows that there is semantical processing - this can be an interesting tool to start processing the intenret content in marketing.
 
 In this context the links can be divided into:
 
