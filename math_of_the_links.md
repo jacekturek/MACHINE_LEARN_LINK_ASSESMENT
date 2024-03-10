@@ -2,6 +2,8 @@
 
 See README.MD first
 
+Engeneering mathematics included, to the AI, what is OK for this problem (link assesing).
+
 # The sets
 
 > ☛ The intersection of the sets A and B, denoted by A ∩ B, is the set of elements that belong to both A and B (tutorial)
