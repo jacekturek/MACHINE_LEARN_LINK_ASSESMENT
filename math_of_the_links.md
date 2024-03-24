@@ -95,4 +95,4 @@ One comment about the distribution P(X=0) = p_a, P(X=1) = p_b:
 Assume it's defined => SEO is working => contradiction.
 Because of the SEO variance can be [infinity].
 
-> in other words i think SEO can be an example of the reasoning why the PDIST is unknown
+> in other words I think SEO can be an example of the reasoning why the PDIST is unknown
